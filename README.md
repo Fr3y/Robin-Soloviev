@@ -4,7 +4,7 @@ Codes For Further Use
 
   <img src="https://static.zerochan.net/Robin.Soloviev.full.2000253.jpg">
 
-  <h1 align="center">Robin Soloviev</h1>
+  <h1 align="center">Robin Soloviv</h1>
 
 </p>
 
